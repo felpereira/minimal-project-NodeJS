@@ -1,8 +1,7 @@
 {
   "name": "minimal-node-js",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://gitlab.com/kaon1/minimal-node-js.git",
+  "main": "index.js",  
   "author": "cb.felipe <cb.felipe@gmail.com>",
   "license": "MIT",
   "scripts": {
